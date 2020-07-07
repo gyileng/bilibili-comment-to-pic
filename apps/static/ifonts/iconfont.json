@@ -1,0 +1,23 @@
+{
+  "id": "",
+  "name": "",
+  "font_family": "iconfont",
+  "css_prefix_text": "icon-",
+  "description": "",
+  "glyphs": [
+    {
+      "icon_id": "1074909",
+      "name": "up (2)",
+      "font_class": "up2",
+      "unicode": "e64f",
+      "unicode_decimal": 58959
+    },
+    {
+      "icon_id": "1567669",
+      "name": "upload",
+      "font_class": "upload",
+      "unicode": "e6ac",
+      "unicode_decimal": 59052
+    }
+  ]
+}
