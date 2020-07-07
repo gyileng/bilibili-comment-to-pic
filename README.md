@@ -2,7 +2,7 @@
 
 [前端](# "前端") | [后端](# "后端")
 ### #预览
-![预览](https://github.com/gyileng/bilibili-comment-to-pic/yulan.png "预览")
+![预览](https://github.com/gyileng/bilibili-comment-to-pic/blob/master/yulan.png "预览")
 ### #测试
 地址：[111.229.236.133](http://111.229.236.133/ "111.229.236.133")
 ------------
